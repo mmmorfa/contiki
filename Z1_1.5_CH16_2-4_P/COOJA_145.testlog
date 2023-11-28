@@ -1,0 +1,68 @@
+Random seed: 684489
+2198474 2 [INFO: Energest  ] --- Period summary #0 (0 seconds)
+2202287 2 [INFO: Energest  ] Total time  :      16286
+2208796 2 [INFO: Energest  ] CPU         :       2449/     16286 (150 permil)
+2215442 2 [INFO: Energest  ] LPM         :      13837/     16286 (849 permil)
+2221128 2 [INFO: Energest  ] Deep LPM    :          0/     16286 (0 permil)
+2226816 2 [INFO: Energest  ] Radio Tx    :          0/     16286 (0 permil)
+2233460 2 [INFO: Energest  ] Radio Rx    :      16171/     16286 (992 permil)
+2240106 2 [INFO: Energest  ] Radio total :      16171/     16286 (992 permil)
+2328770 1 [INFO: Energest  ] --- Period summary #0 (0 seconds)
+2332588 1 [INFO: Energest  ] Total time  :      16278
+2338887 1 [INFO: Energest  ] CPU         :       1441/     16278 (88 permil)
+2348959 1 [INFO: Energest  ] LPM         :      14837/     16278 (911 permil)
+2354647 1 [INFO: Energest  ] Deep LPM    :          0/     16278 (0 permil)
+2360495 1 [INFO: Energest  ] Radio Tx    :         40/     16278 (2 permil)
+2366662 1 [INFO: Energest  ] Radio Rx    :        711/     16278 (43 permil)
+2372835 1 [INFO: Energest  ] Radio total :        751/     16278 (46 permil)
+2698475 2 [INFO: Energest  ] --- Period summary #1 (0 seconds)
+2702289 2 [INFO: Energest  ] Total time  :      16384
+2708798 2 [INFO: Energest  ] CPU         :       3641/     16384 (222 permil)
+2715449 2 [INFO: Energest  ] LPM         :      12743/     16384 (777 permil)
+2721136 2 [INFO: Energest  ] Deep LPM    :          0/     16384 (0 permil)
+2726824 2 [INFO: Energest  ] Radio Tx    :          0/     16384 (0 permil)
+2733676 2 [INFO: Energest  ] Radio Rx    :      16384/     16384 (1000 permil)
+2740529 2 [INFO: Energest  ] Radio total :      16384/     16384 (1000 permil)
+2828751 1 [INFO: Energest  ] --- Period summary #1 (0 seconds)
+2832588 1 [INFO: Energest  ] Total time  :      16383
+2842347 1 [INFO: Energest  ] CPU         :       1585/     16383 (96 permil)
+2849025 1 [INFO: Energest  ] LPM         :      14798/     16383 (903 permil)
+2854712 1 [INFO: Energest  ] Deep LPM    :          0/     16383 (0 permil)
+2860399 1 [INFO: Energest  ] Radio Tx    :          0/     16383 (0 permil)
+2866566 1 [INFO: Energest  ] Radio Rx    :        869/     16383 (53 permil)
+2872733 1 [INFO: Energest  ] Radio total :        869/     16383 (53 permil)
+3198683 2 [INFO: Energest  ] --- Period summary #2 (0 seconds)
+3202497 2 [INFO: Energest  ] Total time  :      16391
+3209009 2 [INFO: Energest  ] CPU         :       3662/     16391 (223 permil)
+3215660 2 [INFO: Energest  ] LPM         :      12729/     16391 (776 permil)
+3221348 2 [INFO: Energest  ] Deep LPM    :          0/     16391 (0 permil)
+3227069 2 [INFO: Energest  ] Radio Tx    :          0/     16391 (0 permil)
+3233956 2 [INFO: Energest  ] Radio Rx    :      16391/     16391 (1000 permil)
+3240811 2 [INFO: Energest  ] Radio total :      16391/     16391 (1000 permil)
+3328751 1 [INFO: Energest  ] --- Period summary #2 (0 seconds)
+3333015 1 [INFO: Energest  ] Total time  :      16384
+3342229 1 [INFO: Energest  ] CPU         :       1583/     16384 (96 permil)
+3348905 1 [INFO: Energest  ] LPM         :      14801/     16384 (903 permil)
+3354592 1 [INFO: Energest  ] Deep LPM    :          0/     16384 (0 permil)
+3360289 1 [INFO: Energest  ] Radio Tx    :          0/     16384 (0 permil)
+3366456 1 [INFO: Energest  ] Radio Rx    :        869/     16384 (53 permil)
+3372623 1 [INFO: Energest  ] Radio total :        869/     16384 (53 permil)
+3698475 2 [INFO: Energest  ] --- Period summary #3 (0 seconds)
+3702289 2 [INFO: Energest  ] Total time  :      16377
+3708800 2 [INFO: Energest  ] CPU         :       3658/     16377 (223 permil)
+3715451 2 [INFO: Energest  ] LPM         :      12719/     16377 (776 permil)
+3721138 2 [INFO: Energest  ] Deep LPM    :          0/     16377 (0 permil)
+3726825 2 [INFO: Energest  ] Radio Tx    :          0/     16377 (0 permil)
+3733678 2 [INFO: Energest  ] Radio Rx    :      16377/     16377 (1000 permil)
+3740531 2 [INFO: Energest  ] Radio total :      16377/     16377 (1000 permil)
+3829144 1 [INFO: Energest  ] --- Period summary #3 (0 seconds)
+3835289 1 [INFO: Energest  ] Total time  :      16385
+3841798 1 [INFO: Energest  ] CPU         :       1816/     16385 (110 permil)
+3848444 1 [INFO: Energest  ] LPM         :      14569/     16385 (889 permil)
+3854131 1 [INFO: Energest  ] Deep LPM    :          0/     16385 (0 permil)
+3859819 1 [INFO: Energest  ] Radio Tx    :          0/     16385 (0 permil)
+3866014 1 [INFO: Energest  ] Radio Rx    :        869/     16385 (53 permil)
+3872708 1 [INFO: Energest  ] Radio total :        869/     16385 (53 permil)
+TEST TIMEOUT
+TEST FAILED
+Test ended at simulation time: 3875289

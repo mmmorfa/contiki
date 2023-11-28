@@ -1,0 +1,12 @@
+Random seed: 565645
+1925948 1 [INFO: Energest  ] --- Period summary #0 (0 seconds)
+1929766 1 [INFO: Energest  ] Total time  :      32666
+1939467 1 [INFO: Energest  ] CPU         :       1437/     32666 (43 permil)
+1946148 1 [INFO: Energest  ] LPM         :      31229/     32666 (956 permil)
+1951835 1 [INFO: Energest  ] Deep LPM    :          0/     32666 (0 permil)
+1957673 1 [INFO: Energest  ] Radio Tx    :         40/     32666 (1 permil)
+1963975 1 [INFO: Energest  ] Radio Rx    :       1580/     32666 (48 permil)
+1970299 1 [INFO: Energest  ] Radio total :       1620/     32666 (49 permil)
+TEST TIMEOUT
+TEST FAILED
+Test ended at simulation time: 2662939
